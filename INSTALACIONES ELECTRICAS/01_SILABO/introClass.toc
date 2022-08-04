@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Perfil del docente}{3}{0}{1}
+\beamer@sectionintoc {2}{Consideraciones generales}{4}{0}{2}
+\beamer@sectionintoc {3}{Sílabo}{6}{0}{3}
+\beamer@sectionintoc {4}{Fundamentos eléctricos}{7}{0}{4}
+\beamer@sectionintoc {5}{Diseño de instalaciones}{8}{0}{5}
+\beamer@sectionintoc {6}{Domótica aplicada}{9}{0}{6}
+\beamer@sectionintoc {7}{Simulaciones eléctricas}{10}{0}{7}
