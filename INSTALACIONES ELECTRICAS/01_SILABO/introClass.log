@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.18)  3 AUG 2022 15:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.18)  4 AUG 2022 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1389,12 +1389,12 @@ Overfull \hbox (61.98222pt too wide) has occurred while \output is active
 
 
 ]
-Overfull \vbox (16.35318pt too high) detected at line 158
+Overfull \vbox (86.29762pt too high) detected at line 166
  []
 
 File: ./Figures/uleam.png Graphic file (type png)
 <use ./Figures/uleam.png>
-Package pdftex.def Info: ./Figures/uleam.png  used on input line 158.
+Package pdftex.def Info: ./Figures/uleam.png  used on input line 166.
 (pdftex.def)             Requested size: 252.94398pt x 252.95905pt.
 
 Overfull \hbox (61.98222pt too wide) has occurred while \output is active
@@ -1406,7 +1406,7 @@ Overfull \hbox (61.98222pt too wide) has occurred while \output is active
 ]
 File: ./Figures/uleam.png Graphic file (type png)
 <use ./Figures/uleam.png>
-Package pdftex.def Info: ./Figures/uleam.png  used on input line 173.
+Package pdftex.def Info: ./Figures/uleam.png  used on input line 184.
 (pdftex.def)             Requested size: 252.94398pt x 252.95905pt.
 
 Overfull \hbox (61.98222pt too wide) has occurred while \output is active
@@ -1418,7 +1418,7 @@ Overfull \hbox (61.98222pt too wide) has occurred while \output is active
 ]
 File: ./Figures/uleam.png Graphic file (type png)
 <use ./Figures/uleam.png>
-Package pdftex.def Info: ./Figures/uleam.png  used on input line 186.
+Package pdftex.def Info: ./Figures/uleam.png  used on input line 199.
 (pdftex.def)             Requested size: 252.94398pt x 252.95905pt.
 
 Overfull \hbox (61.98222pt too wide) has occurred while \output is active
@@ -1430,7 +1430,7 @@ Overfull \hbox (61.98222pt too wide) has occurred while \output is active
 ]
 File: ./Figures/uleam.png Graphic file (type png)
 <use ./Figures/uleam.png>
-Package pdftex.def Info: ./Figures/uleam.png  used on input line 200.
+Package pdftex.def Info: ./Figures/uleam.png  used on input line 221.
 (pdftex.def)             Requested size: 252.94398pt x 252.95905pt.
 
 Overfull \hbox (61.98222pt too wide) has occurred while \output is active
@@ -1442,7 +1442,7 @@ Overfull \hbox (61.98222pt too wide) has occurred while \output is active
 ]
 File: ./Figures/uleam.png Graphic file (type png)
 <use ./Figures/uleam.png>
-Package pdftex.def Info: ./Figures/uleam.png  used on input line 211.
+Package pdftex.def Info: ./Figures/uleam.png  used on input line 232.
 (pdftex.def)             Requested size: 252.94398pt x 252.95905pt.
 
 Overfull \hbox (61.98222pt too wide) has occurred while \output is active
@@ -1454,11 +1454,11 @@ Overfull \hbox (61.98222pt too wide) has occurred while \output is active
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 226.
+(Font)              using `OT1/cmr/bx/n' instead on input line 247.
 
 File: ./Figures/uleam.png Graphic file (type png)
 <use ./Figures/uleam.png>
-Package pdftex.def Info: ./Figures/uleam.png  used on input line 226.
+Package pdftex.def Info: ./Figures/uleam.png  used on input line 247.
 (pdftex.def)             Requested size: 252.94398pt x 252.95905pt.
 
 Overfull \hbox (61.98222pt too wide) has occurred while \output is active
@@ -1486,8 +1486,8 @@ Package rerunfilecheck Info: File `introClass.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  29006 strings out of 478582
- 588964 string characters out of 2843872
- 863334 words of memory out of 3000000
+ 589234 string characters out of 2843872
+ 869334 words of memory out of 3000000
  46538 multiletter control sequences out of 15000+600000
  485462 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1503,7 +1503,7 @@ Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/K
 ATANA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 ><C:/Users/KATANA/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmssi17.pfb>
-Output written on introClass.pdf (11 pages, 1927516 bytes).
+Output written on introClass.pdf (11 pages, 1928898 bytes).
 PDF statistics:
  616 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)
